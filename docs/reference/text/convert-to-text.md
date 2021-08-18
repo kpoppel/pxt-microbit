@@ -28,7 +28,7 @@ myNumber = 123
 let myString = "It is " + convertToText(myBoolean) + " that " + convertToText(myNumber) + " is now a string!"
 ```
 
-## Sea also #seealso
+## See also #seealso
 
 [parse int](/reference/text/parse-int), 
 [parse float](/reference/text/parse-float)
